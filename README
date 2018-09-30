@@ -1,0 +1,3 @@
+The solution contains two scripts. The script "loadsmart.py" contains the domain classes of the
+problem and solves the use case given by the files "trucks.csv" and "cargo.csv". The script
+"test_loadsmart.py" tests the main functionalities of the solution.
